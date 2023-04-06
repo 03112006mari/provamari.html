@@ -1,0 +1,28 @@
+.cabeçalho{
+ font-size: 18px;
+}
+h1{
+   font-size: 20px;
+}
+h2{
+   background-color: aliceblue;
+}
+p{
+ text-align: center;
+}
+a{
+    text-align: center;
+}
+.paragrafo3{
+    background-color: blueviolet;
+}
+.paragrafo4{
+    font-size: 60px;
+}
+.lista{
+    display: inline-block;
+    margin: 0 15px;
+}
+footer{
+ background-color: black;
+}
